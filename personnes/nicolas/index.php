@@ -1,12 +1,10 @@
 <?php
 
 return [
-    'nom' => 'LEGRAND',
-    'prenom' => 'David',
+    'nom' => 'ZUBIZARRETA',
+    'prenom' => 'Nicolas',
     'src' => __DIR__ . '/portrait.webp',
-    'description' => 'Je suis un formateur professionnel pour adultes basé à Angoulême, Charente, 
-    spécialisé dans les domaines de l\'informatique, du web, et du numérique. 
-    Avec une riche expérience dans l\'enseignement et le développement de projets digitaux, 
-    je me consacre à la formation et à l\'accompagnement des adultes souhaitant acquérir de nouvelles 
-    compétences ou se perfectionner dans le domaine du numérique.',
+    'description' => 'Étudiant en développement web, passionné par la programmation,
+    je souhaite développer de nouvelles compétences et acquérir les outils nécessaires pour
+    la construction de mon projet professionnel.',
 ];
